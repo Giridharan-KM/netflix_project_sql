@@ -272,7 +272,7 @@ group by 1;
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
 
-##Author - Giridharan-KM
+## Author - Giridharan-KM
 
 This is my first project in SQL is part of my portfolio, showcasing my SQL skills essential for Data Analyst roles. I am looking forward to get the Wonderful Opportunity to explore my career as a data analyst.
 
